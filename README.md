@@ -257,6 +257,7 @@ jupyter nbconvert \
 The repository version was successfully tested from a **fresh Google Colab clone** using this procedure.
 
 Runtime depends on network and compute performance because the notebook performs live satellite access, repeated cross-validation, and bootstrap evaluation.
+Expected runtime: Approximately 45–60 minutes in Google Colab for a full end-to-end execution. Runtime may vary depending on network access and available compute.
 
 ---
 
